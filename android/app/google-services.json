@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "237711896721",
+    "project_id": "dead-bot-app",
+    "storage_bucket": "dead-bot-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237711896721:android:7a8bea351b61d834398f30",
+        "android_client_info": {
+          "package_name": "com.example.testt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237711896721-tgknef2vc65u76411uacu8ilslihrdrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr5da7OVD7I2lcGuqFZr2cUW2PGYkat5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237711896721-tgknef2vc65u76411uacu8ilslihrdrm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "237711896721-1u5skdmpm3qnmrlg09t42qkejglvn8pb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deadBot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
